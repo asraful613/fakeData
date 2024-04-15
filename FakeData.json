@@ -1,0 +1,77 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Cozy Family Home",
+        "segment": "Single-family Home",
+        "description": "A charming 3-bedroom home perfect for families, featuring a spacious backyard and modern amenities.",
+        "price": "$300,000",
+        "status": "Sale",
+        "area": "2,000 sq ft",
+        "location": "123 Main Street, Anytown, USA",
+        "facilities": ["Backyard Garden", "Modern Kitchen", "Spacious Living Room"],
+        "image": "path/to/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Downtown Apartment",
+        "segment": "Apartment",
+        "description": "Luxurious apartment located in the heart of the city, offering stunning views and easy access to amenities.",
+        "price": "$2,500/month",
+        "status": "Rent",
+        "area": "1,200 sq ft",
+        "location": "456 Center Street, Metropolis, USA",
+        "facilities": ["City View Balcony", "Fitness Center", "Swimming Pool"],
+        "image": "path/to/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Student Housing Complex",
+        "segment": "Student Housing",
+        "description": "Modern student housing complex with furnished rooms and on-site amenities, ideal for college students.",
+        "price": "$800/month (per room)",
+        "status": "Rent",
+        "area": "400 sq ft (per room)",
+        "location": "789 University Ave, College Town, USA",
+        "facilities": ["Fully Furnished Rooms", "Study Lounge", "Laundry Facilities"],
+        "image": "path/to/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Senior Living Community",
+        "segment": "Senior Living",
+        "description": "Retirement community offering comfortable living spaces, social activities, and medical support for seniors.",
+        "price": "$3,000/month",
+        "status": "Rent",
+        "area": "1,500 sq ft",
+        "location": "101 Retirement Way, Senior Haven, USA",
+        "facilities": ["Community Center", "Medical Assistance", "Gardening Club"],
+        "image": "path/to/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Townhouse Retreat",
+        "segment": "Townhouse",
+        "description": "Modern townhouse with sleek design, rooftop terrace, and convenient access to urban amenities.",
+        "price": "$400,000",
+        "status": "Sale",
+        "area": "1,800 sq ft",
+        "location": "567 Oak Street, Suburbia, USA",
+        "facilities": ["Rooftop Terrace", "Attached Garage", "Open Concept Living"],
+        "image": "path/to/image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Vacation Villa",
+        "segment": "Vacation Rental",
+        "description": "Luxurious villa nestled in a serene location, featuring panoramic views and resort-style amenities.",
+        "price": "$500/night",
+        "status": "Rent",
+        "area": "3,500 sq ft",
+        "location": "123 Beachfront Drive, Paradise Island, USA",
+        "facilities": ["Private Beach Access", "Infinity Pool", "Outdoor Dining Area"],
+        "image": "path/to/image6.jpg"
+      }
+    ]
+  }
+  
